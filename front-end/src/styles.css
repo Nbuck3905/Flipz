@@ -1,0 +1,22 @@
+.pageLink {
+  margin: 2px;
+  display: inline-block;
+  padding: 2px;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+}
+.currentLink {
+  background-color: #0074c2;
+  color: #ffffff;
+}
+
+.currentLink a:link {
+  color: #ffffff;
+}
+.currentLink a:visited {
+  color: #ffffff;
+}
+.currentLink a:active {
+  color: #ffffff;
+}
